@@ -31,7 +31,10 @@ export default function Text() {
           <a href="/"> xxx </a>
         </ol>
         <ol>
-          <a href="https://github.com/Gunnastan"> This Website </a>
+          <a href="https://github.com/Gunnastan/automatic-chainsaw">
+            {" "}
+            This Website{" "}
+          </a>
         </ol>
       </ul>
     </div>
