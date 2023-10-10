@@ -31,7 +31,10 @@ export default function Text() {
           </a>
         </ol>
         <ol>
-          <a href="/"> xxx </a>
+          <a href="https://drum-edbo.onrender.com" className="link">
+            {" "}
+            Drum Machine{" "}
+          </a>
         </ol>
         <ol>
           <a href="https://github.com/Gunnastan/automatic-chainsaw">
