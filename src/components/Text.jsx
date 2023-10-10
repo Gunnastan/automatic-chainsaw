@@ -37,6 +37,12 @@ export default function Text() {
           </a>
         </ol>
         <ol>
+          <a href="https://calculator-dpsa.onrender.com" className="link">
+            {" "}
+            calculator{" "}
+          </a>
+        </ol>
+        <ol>
           <a href="https://github.com/Gunnastan/automatic-chainsaw">
             {" "}
             This Website{" "}
