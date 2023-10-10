@@ -19,9 +19,9 @@ export default function Text() {
       <h4 className="projects"> Projects </h4>
       <ul className="projects-links">
         <ol>
-          <a href="/" className="link">
+          <a href="https://quotes-0h1y.onrender.com" className="link">
             {" "}
-            xxx{" "}
+            Random Quote Machine{" "}
           </a>
         </ol>
         <ol>
